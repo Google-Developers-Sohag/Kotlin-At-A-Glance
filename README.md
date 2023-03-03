@@ -1,5 +1,5 @@
 # <img src="https://user-images.githubusercontent.com/60224159/222824745-88da2115-2c6b-4ba1-98b5-7beef34c9d99.png" height=80 width=80/> Kotlin-At-A-Glance
-[Kotlin](https://github.com/JetBrains/kotlin) is an open source high level programming language based primarily on [java](https://docs.oracle.com/en/java/javase/19/) and runs essentially on the [JVM](https://docs.oracle.com/javase/specs/jvms/se19/html/jvms-1.html).
+[Kotlin](https://github.com/JetBrains/kotlin) is an open source high level programming language based primarily on [java](https://docs.oracle.com/en/java/javase/19/), developed and maintained by [JetBrains](https://www.jetbrains.com/) and runs essentially on the [JVM](https://docs.oracle.com/javase/specs/jvms/se19/html/jvms-1.html).
 
 Kotlin now runs on multiple platforms including web and iOS through platform specific modules, designated by [Kotlin-Multi-Platform](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html).
 
