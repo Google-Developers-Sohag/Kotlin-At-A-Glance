@@ -4,13 +4,13 @@
 Kotlin now runs on multiple platforms including web and iOS through platform specific modules, designated by [Kotlin-Multi-Platform](https://kotlinlang.org/docs/multiplatform-mobile-getting-started.html).
 
 ## Table of contents: 
-- [Basic language components]()
+- [Basic language components](https://github.com/Google-Developers-Sohag/Kotlin-At-A-Glance/tree/master/Kotlin-I-Sessions)
   - [x] Data types.
   - [x] Lexical elements.
   - [x] Operations (arithmetic, logical and bitwise).
   - [x] Statements (conditional statements "if", "if-else", "nested-if-elses" and "ternary operations").
 
-- [Object-Oriented-Programming]()
+- [Object-Oriented-Programming](https://github.com/Google-Developers-Sohag/Kotlin-At-A-Glance/tree/master/OOP-Sessions)
   - [x] Classes and objects.
   - [x] Open and Closed classes.
   - [x] Inheritance and abstraction.
