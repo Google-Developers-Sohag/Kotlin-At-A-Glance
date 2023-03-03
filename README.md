@@ -5,6 +5,8 @@ Kotlin now runs on multiple platforms including web and iOS through platform spe
 
 ## Table of contents: 
 - [Basic language components](https://github.com/Google-Developers-Sohag/Kotlin-At-A-Glance/tree/master/Kotlin-I-Sessions)
+  - [x] Basic Syntax.
+  - [x] Language basics.
   - [x] Data types.
   - [x] Lexical elements.
   - [x] Operations (arithmetic, logical and bitwise).
